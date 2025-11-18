@@ -1,16 +1,29 @@
-# React + Vite
+# Family Meal & Routine Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean React-based app designed to help families plan weekly meals and track routines.  
+This project is part of my coding comeback journey and serves as a foundation for future client-ready applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About This Project
 
-## React Compiler
+The **Family Meal & Routine Planner** is built with:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React + Vite**
+- Simple reusable layout components
+- Clean dark UI
+- Real data rendering (weekly meals array)
+- Modern structure ready for expansion
 
-## Expanding the ESLint configuration
+This is **Day 1** of rebuilding momentum, sharpening skills, and building leverage by combining my workflow with AI-assisted development.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌟 Current Features (Day 1)
+
+✅ Vite + React project setup  
+✅ Custom dark layout (Meals + Routines panels)  
+✅ Static “Tonight’s Dinner” example card  
+✅ Live dynamic data powered by `weeklyMeals` array  
+✅ Organized file structure  
+✅ Git + GitHub integration
